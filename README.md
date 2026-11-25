@@ -1,9 +1,5 @@
 # ⚔️ BATALHA DE CRIATIVIDADE COM IA
 
-<p align="center">
-  <img src="capa-menor-batalha-ia.png" width="100%" alt="Batalha de Criatividade com IA">
-</p>
-
 <h3 align="center">🔥 SUA CRIATIVIDADE É SUA MAIOR HABILIDADE! 🔥</h3>
 
 <p align="center">
