@@ -34,7 +34,7 @@ O objetivo é proporcionar uma experiência interativa, divertida e desafiadora,
  🎮 Personagens
 
 O jogo possui quatro personagens disponíveis:
-
+|--------|---------|
 | Personagem | Categoria |
 | Raven | Masculino |
 | Kael | Masculino |
