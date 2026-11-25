@@ -145,12 +145,6 @@ BATALHA-DE-CRIATIVIDADE-COM-IA/
 
 Confira a identidade visual e as imagens do projeto.
 
-### Capa principal
-
-<p align="center">
-  <img src="capa-menor-batalha-ia.png" width="100%" alt="Capa principal do jogo">
-</p>
-
 ### Imagens do projeto
 
 <p align="center">
