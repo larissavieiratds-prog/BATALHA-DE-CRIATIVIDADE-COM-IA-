@@ -1,7 +1,7 @@
 # ⚔️ BATALHA DE CRIATIVIDADE COM IA
 
 <p align="center">
-  <img src="capa-menor-batalha-ia.png" width="100%" alt="Capa principal do Batalha de Criatividade com IA">
+  <img src="capa-menor-batalha-ia.png" width="100%" alt="Batalha de Criatividade com IA">
 </p>
 
 <h3 align="center">🔥 SUA CRIATIVIDADE É SUA MAIOR HABILIDADE! 🔥</h3>
@@ -11,20 +11,22 @@
 </p>
 
 <p align="center">
-  Um jogo de combate interativo no qual você enfrenta uma inteligência artificial, explora diferentes arenas e utiliza habilidades especiais para superar desafios.
+  Um jogo de combate interativo que une criatividade, programação e inteligência artificial.
 </p>
 
 ---
 
-## 📌 SOBRE O PROJETO
+## 📌 01. SOBRE O PROJETO
 
-**Batalha de Criatividade com IA** é um projeto tecnológico e educacional que apresenta um jogo de combate entre um jogador e um adversário controlado por inteligência artificial.
+O **Batalha de Criatividade com IA** é um projeto tecnológico e educacional que apresenta uma experiência de combate entre um jogador e um adversário controlado por inteligência artificial.
 
-O jogador pode escolher seu personagem, selecionar uma arena, definir o nível de dificuldade e participar de batalhas utilizando movimentação, ataques e habilidades especiais.
+O jogador pode escolher seu personagem, selecionar uma arena e definir o nível de dificuldade para participar de desafios interativos.
 
-O projeto busca unir criatividade, programação e inteligência artificial em uma experiência interativa e desafiadora.
+O projeto foi desenvolvido com o objetivo de explorar a criatividade, o raciocínio lógico e o desenvolvimento de jogos digitais por meio da tecnologia.
 
-## 🎮 PERSONAGENS
+## 🎮 02. PERSONAGENS
+
+O jogo apresenta quatro personagens, cada um com sua própria identidade visual e habilidades.
 
 | Personagem | Categoria |
 |:---:|:---:|
@@ -33,9 +35,13 @@ O projeto busca unir criatividade, programação e inteligência artificial em u
 | Ayra | Feminino |
 | Naomi | Feminino |
 
-## 🏟️ ARENAS DISPONÍVEIS
+**Quatro personagens, diferentes estilos e possibilidades de estratégia!**
 
-| Arena | Cenário |
+## 🏟️ 03. ARENAS
+
+O jogador pode escolher entre cinco cenários para realizar suas batalhas.
+
+| Arena | Característica |
 |---|---|
 | 🌆 Cidade Neon | Ambiente futurista |
 | 🌋 Vulcão | Cenário vulcânico |
@@ -43,17 +49,19 @@ O projeto busca unir criatividade, programação e inteligência artificial em u
 | 🌳 Floresta Mística | Cenário natural |
 | 🚀 Arena Espacial | Ambiente tecnológico |
 
-## 🏆 NÍVEIS DE DIFICULDADE
+## 🏆 04. NÍVEIS DE DIFICULDADE
 
-| Dificuldade | Descrição |
-|---|---|
+O jogo possui três opções de dificuldade:
+
+| Nível | Descrição |
+|:---:|---|
 | 🟢 Fácil | Desafio inicial |
-| 🟡 Médio | Adversário com maior nível de desafio |
-| 🔴 Difícil | Combate mais desafiador |
+| 🟡 Médio | Desafio intermediário |
+| 🔴 Difícil | Maior nível de desafio |
 
-## 🕹️ COMO JOGAR
+## 🕹️ 05. COMO JOGAR
 
-O objetivo é enfrentar a inteligência artificial utilizando os controles de movimentação e os comandos disponíveis durante a partida.
+O objetivo é enfrentar a inteligência artificial utilizando os comandos de movimentação e as opções de combate disponíveis.
 
 ### Controles de movimentação
 
@@ -63,19 +71,19 @@ O objetivo é enfrentar a inteligência artificial utilizando os controles de mo
 | W | Pular |
 | D | Movimentar para frente |
 
-### Comandos de combate
+### Ações de combate
 
-| Comando | Função |
+| Comando | Descrição |
 |---|---|
-| 👊 Soco | Ataque básico |
-| 🦵 Chute | Ataque alternativo |
-| 🔥 Poder | Utilizar habilidade do personagem |
-| ⭐ Especial | Executar ataque especial |
+| Soco | Ataque básico |
+| Chute | Ataque alternativo |
+| Poder | Habilidade do personagem |
+| Especial | Ataque especial |
 
-## ✨ FUNCIONALIDADES
+## ✨ 06. PRINCIPAIS FUNCIONALIDADES
 
-- Seleção entre quatro personagens.
-- Escolha entre cinco arenas.
+- Escolha entre quatro personagens.
+- Seleção de cinco arenas.
 - Três níveis de dificuldade.
 - Combate contra inteligência artificial.
 - Movimentação dos personagens.
@@ -84,70 +92,76 @@ O objetivo é enfrentar a inteligência artificial utilizando os controles de mo
 - Cenários tridimensionais.
 - Barras de vida e energia.
 
-## 💻 TECNOLOGIAS UTILIZADAS
+## 💻 07. TECNOLOGIAS UTILIZADAS
 
-| Tecnologia | Aplicação |
+As tecnologias utilizadas na proposta do projeto incluem:
+
+| Tecnologia | Finalidade |
 |---|---|
-| HTML5 | Estrutura das telas e elementos do jogo |
-| CSS3 | Estilização, cores, animações e interface |
-| JavaScript | Programação das mecânicas, movimentação e inteligência artificial |
-| Three.js | Construção e renderização de cenários tridimensionais |
+| HTML5 | Estrutura da aplicação |
+| CSS3 | Estilização e interface visual |
+| JavaScript | Lógica e mecânicas do jogo |
+| Three.js | Recursos de renderização tridimensional |
 
-## 🖥️ COMO EXECUTAR O PROJETO
+## ⚙️ 08. INSTALAÇÃO E EXECUÇÃO
 
-**1. Clone o repositório**
+Para executar o projeto em seu computador, siga os passos:
+
+**1. Clone o repositório:**
 
 ```bash
 git clone https://github.com/larissavieiratds-prog/BATALHA-DE-CRIATIVIDADE-COM-IA-.git
 ```
 
-**2. Abra o projeto**
+**2. Abra a pasta no Visual Studio Code.**
 
-Abra a pasta no Visual Studio Code.
+**3. Localize o arquivo principal:**
 
-**3. Localize o arquivo principal**
+```text
+index.html
+```
 
-Encontre o arquivo `index.html`.
+**4. Execute utilizando a extensão Live Server.**
 
-**4. Execute o jogo**
+**5. Abra o endereço disponibilizado no navegador e aproveite o jogo!**
 
-Utilize a extensão Live Server.
-
-**5. Comece a jogar!**
-
-O jogo será aberto no navegador.
-
-## 📂 ESTRUTURA DO PROJETO
+## 📁 09. ESTRUTURA DO PROJETO
 
 ```text
 BATALHA-DE-CRIATIVIDADE-COM-IA/
 │
 ├── index.html
+│
 ├── README.md
+│
 ├── capa-menor-batalha-ia.png
+│
 ├── batalha de criatividade com IA.png
+│
 └── batalha de criatividade com IA (2).png
 ```
 
-## 📸 GALERIA DO PROJETO
+## 📸 10. GALERIA DO PROJETO
+
+Confira a identidade visual e as imagens do projeto.
 
 ### Capa principal
 
 <p align="center">
-  <img src="capa-menor-batalha-ia.png" width="100%" alt="Capa do jogo">
+  <img src="capa-menor-batalha-ia.png" width="100%" alt="Capa principal do jogo">
 </p>
 
-### Imagens do jogo
+### Imagens do projeto
 
 <p align="center">
-  <img src="batalha%20de%20criatividade%20com%20IA.png" width="85%" alt="Imagem do jogo">
+  <img src="batalha%20de%20criatividade%20com%20IA.png" width="85%" alt="Imagem do projeto">
 </p>
 
 <p align="center">
-  <img src="batalha%20de%20criatividade%20com%20IA%20(2).png" width="85%" alt="Segunda imagem do jogo">
+  <img src="batalha%20de%20criatividade%20com%20IA%20%282%29.png" width="85%" alt="Segunda imagem do projeto">
 </p>
 
-## 👩‍💻 EQUIPE DE DESENVOLVIMENTO
+## 👩‍💻 11. EQUIPE DE DESENVOLVIMENTO
 
 Projeto desenvolvido pelos alunos da **2ª Série - Técnico**, da UI SESI SENAI Luziânia e CEPIMAS.
 
@@ -161,23 +175,26 @@ Projeto desenvolvido pelos alunos da **2ª Série - Técnico**, da UI SESI SENAI
 
 **Docente/Mentora:** Érika Sardinha.
 
-## 🎯 OBJETIVO DO PROJETO
+## 🎯 12. OBJETIVO EDUCACIONAL
 
-Demonstrar como a tecnologia e a inteligência artificial podem ser utilizadas no desenvolvimento de jogos digitais, estimulando:
+O projeto busca demonstrar como a tecnologia e a inteligência artificial podem ser aplicadas ao desenvolvimento de jogos digitais.
 
+Durante sua elaboração, são trabalhados conceitos como:
+
+- Lógica de programação.
 - Criatividade e inovação.
-- Raciocínio lógico.
-- Conhecimento em programação.
-- Desenvolvimento de soluções tecnológicas.
+- Desenvolvimento de interfaces.
+- Inteligência artificial.
 - Trabalho em equipe.
+- Resolução de problemas.
 
-## 🚀 CONSIDERAÇÕES FINAIS
+## 🚀 13. CONSIDERAÇÕES FINAIS
 
-O desenvolvimento do **Batalha de Criatividade com IA** representa uma oportunidade de aplicar conhecimentos tecnológicos na criação de um jogo interativo.
+O desenvolvimento do **Batalha de Criatividade com IA** representa a união entre criatividade, tecnologia e aprendizagem.
 
-Através do projeto, são explorados conceitos de programação, design, inteligência artificial e desenvolvimento de jogos digitais.
+A construção do jogo permite transformar conhecimentos de programação e desenvolvimento digital em uma experiência interativa.
 
-Mais do que um jogo, é uma demonstração de criatividade, colaboração e inovação tecnológica.
+Mais do que desenvolver um jogo, o projeto busca demonstrar o potencial da tecnologia como ferramenta de criação e inovação.
 
 ---
 
@@ -190,7 +207,7 @@ Mais do que um jogo, é uma demonstração de criatividade, colaboração e inov
 </p>
 
 <p align="center">
-  Desenvolvido pela equipe da 2ª Série - Técnico
+  <strong>UI SESI SENAI Luziânia e CEPIMAS</strong>
   <br>
-  UI SESI SENAI Luziânia e CEPIMAS
+  2ª Série - Técnico
 </p>
