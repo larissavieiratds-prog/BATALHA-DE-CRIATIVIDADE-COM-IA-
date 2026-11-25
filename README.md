@@ -1,6 +1,16 @@
     
 # ⚔️ BATALHA DE CRIATIVIDADE COM IA
+<p align="center">
+  <img src="capa-menor-batalha-ia.png"
+       width="100%"
+       alt="Batalha de Criatividade com IA">
+</p>
 
+<h1 align="center">⚔️ BATALHA DE CRIATIVIDADE COM IA</h1>
+
+<p align="center">
+  Crie sua estratégia. Escolha seu personagem. Entre na batalha!
+</p>
 <p align="center">
   <img src="batalha%20de%20criatividade%20com%20IA.png" width="700" alt="Batalha de Criatividade com IA">
 </p>
